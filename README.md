@@ -1,1 +1,1 @@
-This is the animation of mutual information based biclustering algorithm.# Animation-for-mutual-information-based-bilustering
+This is the animation of [mutual information based biclustering algorithm ](https://github.com/lht1949/Animation-for-mutual-information-based-bilustering/blob/main/Animation.pdf).
